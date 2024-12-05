@@ -1,1 +1,3 @@
-Historia es el principio del cuento, 
+Historia es el principio del cuento.
+
+Desarrollo de la historia.
